@@ -1,0 +1,14 @@
+.ErrorPage {
+  padding: 5px;
+  padding-bottom: 2.5rem;
+}
+
+.error {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+}

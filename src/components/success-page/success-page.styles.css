@@ -1,0 +1,17 @@
+.SuccessPage {
+  padding: 5px;
+  padding-bottom: 2.5rem;
+}
+
+.success {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+  font-size: 25px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.successGreenColor {
+  color: green;
+}

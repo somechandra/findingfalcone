@@ -1,0 +1,20 @@
+.PanelControls {
+  padding: 10px;
+}
+
+.PanelControlsLabel {
+  font-weight: bold;
+}
+
+.PanelControls div {
+  padding: 5px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
+
+.CenterComponent {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}

@@ -1,0 +1,10 @@
+.StartAgain {
+  padding: 10px;
+}
+
+.StartAgain div {
+  padding: 5px;
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: center;
+}
